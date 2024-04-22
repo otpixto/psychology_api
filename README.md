@@ -1,1 +1,4 @@
-# psychology_api
+To run this project, write
+    
+docker-compose up
+
